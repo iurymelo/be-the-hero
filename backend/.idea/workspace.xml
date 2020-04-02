@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68270349-1dab-448d-8a2b-1bf352a957ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/test.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/generateUniqueId.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/integration/ong.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/generateUniqueId.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knexfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/OngController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/OngController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mobile/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/.idea/codeStyles/Project.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68270349-1dab-448d-8a2b-1bf352a957ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +58,7 @@
       <workItem from="1585515806024" duration="405000" />
       <workItem from="1585520472550" duration="6337000" />
       <workItem from="1585774793273" duration="4092000" />
-      <workItem from="1585780164836" duration="5145000" />
+      <workItem from="1585780164836" duration="5433000" />
     </task>
     <servers />
   </component>
