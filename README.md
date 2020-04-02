@@ -39,7 +39,7 @@ BeTheHEro is a project aimed to connect donors with NGO's (non-governmental orga
 ## 🔖 Layout
 
 You can check the project's layout by [clicking here](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394)
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). You need to be logged in on [Figma](http://figma.com/).
+You need to be logged in on [Figma](http://figma.com/).
 
 ## :memo: Copyrights
 
