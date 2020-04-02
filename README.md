@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".assets/preview.png" width="200px" alt="Iury Melo" title="bethehero" />
+    <img src=".assets/preview.png" alt="Iury Melo" title="bethehero" />
 </h1>
 
 <h4 align="center">
