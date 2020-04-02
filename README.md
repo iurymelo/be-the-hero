@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="assets/bethehero.svg" width="200px" />
+    <img src=".assets/preview.png" width="200px" alt="Iury Melo" title="bethehero" />
 </h1>
 
 <h4 align="center">
@@ -21,10 +21,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="BeTheHero" src="assets/bethehero.png" width="100%">
-</p>
 
 ## :rocket: Technologies
 

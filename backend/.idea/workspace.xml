@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68270349-1dab-448d-8a2b-1bf352a957ab" name="Default Changelist" comment="" />
+    <list default="true" id="68270349-1dab-448d-8a2b-1bf352a957ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/Desktop.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../.assets/Desktop.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/Mobile.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../.assets/Mobile.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../.assets/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/week-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../.assets/week-11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -58,7 +66,7 @@
       <workItem from="1585515806024" duration="405000" />
       <workItem from="1585520472550" duration="6337000" />
       <workItem from="1585774793273" duration="4092000" />
-      <workItem from="1585780164836" duration="5433000" />
+      <workItem from="1585780164836" duration="6093000" />
     </task>
     <servers />
   </component>
@@ -70,9 +78,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585515820620" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1585528093665">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1585786612508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1585786612508" />
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585528093665" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1585515733998">
       <screen x="0" y="0" width="1920" height="1040" />
